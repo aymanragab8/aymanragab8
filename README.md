@@ -41,18 +41,11 @@
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=postman&logoColor=white)
 ![Entity Framework Core](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![LINQ](https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ### ✅ Validation
 ![FluentValidation](https://img.shields.io/badge/FluentValidation-512BD4?style=for-the-badge&logoColor=white)
 ![Data Annotations](https://img.shields.io/badge/Data_Annotations-239120?style=for-the-badge&logoColor=white)
 ![Model Validation](https://img.shields.io/badge/Model_Validation-5C2D91?style=for-the-badge&logoColor=white)
-
-### 🧪 Testing
-![xUnit](https://img.shields.io/badge/xUnit-512BD4?style=for-the-badge&logoColor=white)
-![NUnit](https://img.shields.io/badge/NUnit-239120?style=for-the-badge&logoColor=white)
-![Moq](https://img.shields.io/badge/Moq-000000?style=for-the-badge&logoColor=white)
-![Integration Testing](https://img.shields.io/badge/Integration_Testing-CC2927?style=for-the-badge&logoColor=white)
 
 ### 🚨 Error Handling
 ![Global Exception Handling](https://img.shields.io/badge/Global_Exception_Handling-CC2927?style=for-the-badge&logoColor=white)
@@ -100,9 +93,9 @@
   <a href="mailto:aymanragab2298@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="tel:+201095355026">
-    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
+<a href="https://wa.me/201095355026" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
 </p>
 
 ---
